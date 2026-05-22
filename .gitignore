@@ -9,10 +9,10 @@
 
 # Tracked directories (everything inside hooks/ is tracked except logs)
 !hooks/
+!hooks/*
 hooks/*.log
 
 # Plugins: only the two config files, nothing else
 !plugins/
-plugins/*
 !plugins/installed_plugins.json
 !plugins/known_marketplaces.json
