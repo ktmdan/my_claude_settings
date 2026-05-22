@@ -14,7 +14,7 @@ Everything else (credentials, history, sessions, projects, caches, plans) stays 
 ## Sync behavior
 
 - **SessionStart** runs `hooks/sync-pull.sh` → `git pull --rebase --autostash`. Picks up remote changes; they apply on the *next* session since `settings.json` is already loaded.
-- **Stop** runs `hooks/sync-push.sh` → auto-commits and pushes any changes to tracked files.
+- **SessionEnd** runs `hooks/sync-push.sh` → auto-commits and pushes any changes to tracked files when the session shuts down.
 
 Logs go to `hooks/sync.log` (gitignored).
 
