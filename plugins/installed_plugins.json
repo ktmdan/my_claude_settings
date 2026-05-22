@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "plugins": {
+    "superpowers@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/danmc/.claude/plugins/cache/claude-plugins-official/superpowers/5.1.0",
+        "version": "5.1.0",
+        "installedAt": "2026-04-07T17:53:27.833Z",
+        "lastUpdated": "2026-05-04T22:48:48.782Z",
+        "gitCommitSha": "917e5f53b16b115b70a3a355ed5f4993b9f8b73d"
+      }
+    ],
+    "stripe@claude-plugins-official": [
+      {
+        "scope": "project",
+        "installPath": "/Users/danmc/.claude/plugins/cache/claude-plugins-official/stripe/0.1.0",
+        "version": "0.1.0",
+        "installedAt": "2026-05-12T17:50:08.815Z",
+        "lastUpdated": "2026-05-12T17:50:08.815Z",
+        "gitCommitSha": "14623416d84fdfad0aea8744d4c6f838ebc87654",
+        "projectPath": "/Users/danmc/tmp/stripeInvoiceReport"
+      }
+    ]
+  }
+}

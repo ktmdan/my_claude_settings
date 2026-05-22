@@ -1,0 +1,18 @@
+# Whitelist pattern: ignore everything, then opt-in specific files.
+*
+
+# Tracked top-level files
+!.gitignore
+!README.md
+!CLAUDE.md
+!settings.json
+
+# Tracked directories (everything inside hooks/ is tracked except logs)
+!hooks/
+hooks/*.log
+
+# Plugins: only the two config files, nothing else
+!plugins/
+plugins/*
+!plugins/installed_plugins.json
+!plugins/known_marketplaces.json
