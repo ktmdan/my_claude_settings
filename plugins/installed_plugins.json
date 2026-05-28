@@ -61,6 +61,16 @@
         "lastUpdated": "2026-05-28T12:15:23.261Z",
         "gitCommitSha": "95381e8bcb92f58a28edb4f83eb7e163c7461a0a"
       }
+    ],
+    "aws-core@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/danmc/.claude/plugins/cache/claude-plugins-official/aws-core/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-05-28T12:15:30.383Z",
+        "lastUpdated": "2026-05-28T12:15:30.383Z",
+        "gitCommitSha": "ba1cc8ca4f063d88ca40c6acf3f670e6321b7a7f"
+      }
     ]
   }
 }
