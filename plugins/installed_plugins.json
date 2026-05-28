@@ -14,12 +14,52 @@
     "stripe@claude-plugins-official": [
       {
         "scope": "project",
+        "projectPath": "/Users/danmc/tmp/stripeInvoiceReport",
         "installPath": "/Users/danmc/.claude/plugins/cache/claude-plugins-official/stripe/0.1.0",
         "version": "0.1.0",
         "installedAt": "2026-05-12T17:50:08.815Z",
         "lastUpdated": "2026-05-12T17:50:08.815Z",
-        "gitCommitSha": "14623416d84fdfad0aea8744d4c6f838ebc87654",
-        "projectPath": "/Users/danmc/tmp/stripeInvoiceReport"
+        "gitCommitSha": "14623416d84fdfad0aea8744d4c6f838ebc87654"
+      }
+    ],
+    "deploy-on-aws@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/danmc/.claude/plugins/cache/claude-plugins-official/deploy-on-aws/1.2.0",
+        "version": "1.2.0",
+        "installedAt": "2026-05-28T12:14:59.044Z",
+        "lastUpdated": "2026-05-28T12:14:59.044Z",
+        "gitCommitSha": "95381e8bcb92f58a28edb4f83eb7e163c7461a0a"
+      }
+    ],
+    "aws-serverless@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/danmc/.claude/plugins/cache/claude-plugins-official/aws-serverless/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-05-28T12:15:07.631Z",
+        "lastUpdated": "2026-05-28T12:15:07.631Z",
+        "gitCommitSha": "95381e8bcb92f58a28edb4f83eb7e163c7461a0a"
+      }
+    ],
+    "aws-dev-toolkit@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/danmc/.claude/plugins/cache/claude-plugins-official/aws-dev-toolkit/0.3.0",
+        "version": "0.3.0",
+        "installedAt": "2026-05-28T12:15:14.871Z",
+        "lastUpdated": "2026-05-28T12:15:14.871Z",
+        "gitCommitSha": "abdf86730f3f40ac4d2b775af8d745c3d43894ca"
+      }
+    ],
+    "aws-amplify@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/danmc/.claude/plugins/cache/claude-plugins-official/aws-amplify/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-05-28T12:15:23.261Z",
+        "lastUpdated": "2026-05-28T12:15:23.261Z",
+        "gitCommitSha": "95381e8bcb92f58a28edb4f83eb7e163c7461a0a"
       }
     ]
   }

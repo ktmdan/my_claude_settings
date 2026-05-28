@@ -80,10 +80,15 @@
     ]
   },
   "enabledPlugins": {
-    "superpowers@claude-plugins-official": true
+    "superpowers@claude-plugins-official": true,
+    "deploy-on-aws@claude-plugins-official": true,
+    "aws-serverless@claude-plugins-official": true,
+    "aws-dev-toolkit@claude-plugins-official": true,
+    "aws-amplify@claude-plugins-official": true,
+    "aws-core@claude-plugins-official": true
   },
   "skipDangerousModePermissionPrompt": true,
   "teammateMode": "tmux",
-  "skipAutoPermissionPrompt": true,
-  "agentPushNotifEnabled": true
+  "agentPushNotifEnabled": true,
+  "skipAutoPermissionPrompt": true
 }
