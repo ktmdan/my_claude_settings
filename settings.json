@@ -99,12 +99,12 @@
     "deploy-on-aws@claude-plugins-official": true,
     "aws-serverless@claude-plugins-official": true,
     "aws-dev-toolkit@claude-plugins-official": true,
-    "aws-amplify@claude-plugins-official": true,
+    "aws-amplify@claude-plugins-official": false,
     "aws-core@claude-plugins-official": true
   },
+  "effortLevel": "xhigh",
   "skipDangerousModePermissionPrompt": true,
   "teammateMode": "tmux",
   "agentPushNotifEnabled": true,
-  "skipAutoPermissionPrompt": true,
-  "effortLevel": "xhigh"
+  "skipAutoPermissionPrompt": true
 }
